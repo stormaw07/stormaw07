@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Storm</h1>
+<h3 align="center">I am a high school student at Elvebakken vgs in Oslo </h3>
 
 
 <!--
