@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormaw07&label=Profile%20views&color=0e75b6&style=flat" alt="stormaw07" /> </p>
 
-- 🔭 I’m currently working on [GYT Games](https://github.com/Aase2007/gytgames.git)
+- 🔭 I’m currently working on [GYT Games](https://github.com/Aase2007/gytgames.git) with [Åse](https://github.com/Aase2007) and [Kine](https://github.com/mozartamadeus1756)
 
 - 👨‍💻 All of my projects are available at [https://github.com/stormaw07](https://github.com/stormaw07)
 
